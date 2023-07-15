@@ -25,7 +25,7 @@ export const Transactions = ({ transactions }) => {
 };
 
 Transactions.propTypes = {
-  transactions: PropTypes.arrayOf({
+  transaction: PropTypes.arrayOf({
     id: PropTypes.string,
     type: PropTypes.string,
     amount: PropTypes.string,
