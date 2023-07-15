@@ -1,0 +1,15 @@
+.transactionsHistory {
+  margin: 100px auto 50px auto;
+  border: solid 3px black;
+  padding: 5px;
+}
+
+tr {
+  border: solid 1px black;
+  padding: 3px;
+}
+
+th {
+  border: solid 1px black;
+  padding: 3px;
+}
